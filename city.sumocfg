@@ -1,0 +1,12 @@
+<configuration>
+    <input>
+        <net-file value="city.net.xml"/>
+        <route-files value="city.rou.xml"/>
+        <gui-settings-file value="city.settings.xml"/>
+        <additional-files value="city.det.xml"/>
+    </input>
+    <time>
+        <begin value="0"/>
+        <end value="30000"/>
+    </time>
+</configuration>

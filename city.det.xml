@@ -1,0 +1,77 @@
+<additional>
+                                                 <!--U-->
+<e1Detector id="0" lane="NorthWesttoU_0" pos="-100" freq="30" file="3junctions.out" friendlyPos="x"/>
+<e1Detector id="1" lane="NorthWesttoU_1" pos="-100" freq="30" file="3junctions.out" friendlyPos="x"/>
+<e1Detector id="2" lane="NorthWesttoU_2" pos="-100" freq="30" file="3junctions.out" friendlyPos="x"/>
+<e1Detector id="3" lane="UtoNorthWest_0" pos="+100" freq="30" file="3junctions.out" friendlyPos="x"/>
+<e1Detector id="4" lane="UtoNorthWest_1" pos="+100" freq="30" file="3junctions.out" friendlyPos="x"/>
+<e1Detector id="5" lane="UtoNorthWest_2" pos="+100" freq="30" file="3junctions.out" friendlyPos="x"/>
+	<e1Detector id="6" lane="NorthEasttoU_0" pos="-100" freq="30" file="3junctions.out" friendlyPos="x"/>
+	<e1Detector id="7" lane="NorthEasttoU_1" pos="-100" freq="30" file="3junctions.out" friendlyPos="x"/>
+	<e1Detector id="8" lane="NorthEasttoU_2" pos="-100" freq="30" file="3junctions.out" friendlyPos="x"/>
+	<e1Detector id="9" lane="UtoNorthEast_0" pos="+100" freq="30" file="3junctions.out" friendlyPos="x"/>
+	<e1Detector id="10" lane="UtoNorthEast_1" pos="+100" freq="30" file="3junctions.out" friendlyPos="x"/>
+	<e1Detector id="11" lane="UtoNorthEast_2" pos="+100" freq="30" file="3junctions.out" friendlyPos="x"/>
+<e1Detector id="54" lane="UtoR_0" pos="+100" freq="30" file="3junctions.out" friendlyPos="x"/>
+<e1Detector id="55" lane="UtoR_1" pos="+100" freq="30" file="3junctions.out" friendlyPos="x"/>
+<e1Detector id="56" lane="UtoR_2" pos="+100" freq="30" file="3junctions.out" friendlyPos="x"/>
+<e1Detector id="57" lane="RtoU_0" pos="-100" freq="30" file="3junctions.out" friendlyPos="x"/>
+<e1Detector id="58" lane="RtoU_1" pos="-100" freq="30" file="3junctions.out" friendlyPos="x"/>
+<e1Detector id="59" lane="RtoU_2" pos="-100" freq="30" file="3junctions.out" friendlyPos="x"/>
+	<e1Detector id="60" lane="UtoL_0" pos="+100" freq="30" file="3junctions.out" friendlyPos="x"/>
+	<e1Detector id="61" lane="UtoL_1" pos="+100" freq="30" file="3junctions.out" friendlyPos="x"/>
+	<e1Detector id="62" lane="UtoL_2" pos="+100" freq="30" file="3junctions.out" friendlyPos="x"/>
+	<e1Detector id="63" lane="LtoU_0" pos="-100" freq="30" file="3junctions.out" friendlyPos="x"/>
+	<e1Detector id="64" lane="LtoU_1" pos="-100" freq="30" file="3junctions.out" friendlyPos="x"/>
+	<e1Detector id="65" lane="LtoU_2" pos="-100" freq="30" file="3junctions.out" friendlyPos="x"/>
+                                                    <!--L-->
+<e1Detector id="12" lane="UtoL_0" pos="-100" freq="30" file="3junctions.out" friendlyPos="x"/>
+<e1Detector id="13" lane="UtoL_1" pos="-100" freq="30" file="3junctions.out" friendlyPos="x"/>
+<e1Detector id="14" lane="UtoL_2" pos="-100" freq="30" file="3junctions.out" friendlyPos="x"/>
+<e1Detector id="15" lane="LtoU_0" pos="+100" freq="30" file="3junctions.out" friendlyPos="x"/>
+<e1Detector id="16" lane="LtoU_1" pos="+100" freq="30" file="3junctions.out" friendlyPos="x"/>
+<e1Detector id="17" lane="LtoU_2" pos="+100" freq="30" file="3junctions.out" friendlyPos="x"/>
+	<e1Detector id="18" lane="WesttoL_0" pos="-100" freq="30" file="3junctions.out" friendlyPOE="x"/>
+	<e1Detector id="19" lane="WesttoL_1" pos="-100" freq="30" file="3junctions.out" friendlyPOE="x"/>
+	<e1Detector id="20" lane="WesttoL_2" pos="-100" freq="30" file="3junctions.out" friendlyPOE="x"/>
+	<e1Detector id="21" lane="LtoWest_0" pos="+100" freq="30" file="3junctions.out" friendlyPOE="x"/>
+	<e1Detector id="22" lane="LtoWest_1" pos="+100" freq="30" file="3junctions.out" friendlyPOE="x"/>
+	<e1Detector id="23" lane="LtoWest_2" pos="+100" freq="30" file="3junctions.out" friendlyPOE="x"/>
+<e1Detector id="24" lane="SouthWesttoL_0" pos="-100" freq="30" file="3junctions.out" friendlyPos="x"/>
+<e1Detector id="25" lane="SouthWesttoL_1" pos="-100" freq="30" file="3junctions.out" friendlyPos="x"/>
+<e1Detector id="26" lane="SouthWesttoL_2" pos="-100" freq="30" file="3junctions.out" friendlyPos="x"/>
+<e1Detector id="27" lane="LtoSouthWest_0" pos="+100" freq="30" file="3junctions.out" friendlyPos="x"/>
+<e1Detector id="28" lane="LtoSouthWest_1" pos="+100" freq="30" file="3junctions.out" friendlyPos="x"/>
+<e1Detector id="29" lane="LtoSouthWest_2" pos="+100" freq="30" file="3junctions.out" friendlyPos="x"/>
+	<e1Detector id="66" lane="LtoR_0" pos="+100" freq="30" file="3junctions.out" friendlyPos="x"/>
+	<e1Detector id="67" lane="LtoR_1" pos="+100" freq="30" file="3junctions.out" friendlyPos="x"/>
+	<e1Detector id="68" lane="LtoR_2" pos="+100" freq="30" file="3junctions.out" friendlyPos="x"/>
+	<e1Detector id="69" lane="RtoL_0" pos="-100" freq="30" file="3junctions.out" friendlyPos="x"/>
+	<e1Detector id="70" lane="RtoL_1" pos="-100" freq="30" file="3junctions.out" friendlyPos="x"/>
+	<e1Detector id="71" lane="RtoL_2" pos="-100" freq="30" file="3junctions.out" friendlyPos="x"/>
+                                                    <!--R-->
+<e1Detector id="30" lane="LtoR_0" pos="-100" freq="30" file="3junctions.out" friendlyPos="x"/>
+<e1Detector id="31" lane="LtoR_1" pos="-100" freq="30" file="3junctions.out" friendlyPos="x"/>
+<e1Detector id="32" lane="LtoR_2" pos="-100" freq="30" file="3junctions.out" friendlyPos="x"/>
+<e1Detector id="33" lane="RtoL_0" pos="+100" freq="30" file="3junctions.out" friendlyPos="x"/>
+<e1Detector id="34" lane="RtoL_1" pos="+100" freq="30" file="3junctions.out" friendlyPos="x"/>
+<e1Detector id="35" lane="RtoL_2" pos="+100" freq="30" file="3junctions.out" friendlyPos="x"/>
+	<e1Detector id="36" lane="EasttoR_0" pos="-100" freq="30" file="3junctions.out" friendlyPos="x"/>
+	<e1Detector id="37" lane="EasttoR_1" pos="-100" freq="30" file="3junctions.out" friendlyPos="x"/>
+	<e1Detector id="38" lane="EasttoR_2" pos="-100" freq="30" file="3junctions.out" friendlyPos="x"/>
+	<e1Detector id="39" lane="RtoEast_0" pos="+100" freq="30" file="3junctions.out" friendlyPos="x"/>
+	<e1Detector id="40" lane="RtoEast_1" pos="+100" freq="30" file="3junctions.out" friendlyPos="x"/>
+	<e1Detector id="41" lane="RtoEast_2" pos="+100" freq="30" file="3junctions.out" friendlyPos="x"/>
+<e1Detector id="42" lane="RtoSouthEast_0" pos="+100" freq="30" file="3junctions.out" friendlyPOE="x"/>
+<e1Detector id="43" lane="RtoSouthEast_1" pos="+100" freq="30" file="3junctions.out" friendlyPOE="x"/>
+<e1Detector id="44" lane="RtoSouthEast_2" pos="+100" freq="30" file="3junctions.out" friendlyPOE="x"/>
+<e1Detector id="45" lane="SouthEasttoR_0" pos="-100" freq="30" file="3junctions.out" friendlyPOE="x"/>
+<e1Detector id="46" lane="SouthEasttoR_1" pos="-100" freq="30" file="3junctions.out" friendlyPOE="x"/>
+<e1Detector id="47" lane="SouthEasttoR_2" pos="-100" freq="30" file="3junctions.out" friendlyPOE="x"/>
+	<e1Detector id="48" lane="UtoR_0" pos="-100" freq="30" file="3junctions.out" friendlyPos="x"/>
+	<e1Detector id="49" lane="UtoR_1" pos="-100" freq="30" file="3junctions.out" friendlyPos="x"/>
+	<e1Detector id="50" lane="UtoR_2" pos="-100" freq="30" file="3junctions.out" friendlyPos="x"/>
+	<e1Detector id="51" lane="RtoU_0" pos="+100" freq="30" file="3junctions.out" friendlyPos="x"/>
+	<e1Detector id="52" lane="RtoU_1" pos="+100" freq="30" file="3junctions.out" friendlyPos="x"/>
+	<e1Detector id="53" lane="RtoU_2" pos="+100" freq="30" file="3junctions.out" friendlyPos="x"/>
+</additional>
